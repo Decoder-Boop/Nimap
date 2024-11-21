@@ -1,0 +1,1 @@
+This project is a Spring Boot-based API that provides CRUD operations for managing Categories and Products with server-side pagination and a one-to-many relationship between them. The application uses Spring Data JPA and Hibernate to interact with a relational database.
